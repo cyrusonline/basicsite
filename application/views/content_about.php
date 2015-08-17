@@ -1,4 +1,5 @@
 <div id="content">
+<?php echo heading("About Page",1);?>
 <h1>About Page</h1>
 <p>aboutte</p>
 <p>Lauren Bell (pictured with daughter) said the experience of becoming a moth
